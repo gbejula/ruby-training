@@ -18,4 +18,5 @@ firstName.class
 info = "Gbenga asked, 'Hello Ibukun, how are you doing?'"
 
 print info
+print info
 
